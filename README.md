@@ -15,9 +15,9 @@ A target machine to connect to
 Installation
 Clone the repository:
 
-bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+
+git clone https://github.com/HackingHusky/remote-dll-injection
+cd where ever you want to store it at
 Usage
 Ensure the target machine is set up to accept connections on the specified port.
 
